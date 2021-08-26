@@ -1,0 +1,17 @@
+body{
+    background-color: thistle;
+    font-size: large;
+
+}
+h1{
+    text-decoration: underline;
+    text-transform: uppercase;
+    text-align: center; 
+    color: white;
+}
+h2{
+    text-decoration: underline;
+    text-transform: uppercase;
+background-color: teal; 
+color: wheat;
+}
